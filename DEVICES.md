@@ -853,6 +853,7 @@ of device.
 - Arlec LVE160HA ball lights
 - Asahom S105A-C outdoor lighting
 - Atomi smart color string light
+- AVATTO Smart Dimmer Switch (DMS16) single and dual options 
 - Blitzwolf BW-LT31 LED strip
 - Brilliant Smart 22W twin flood lights with motion sensor
 - Brilliant Smart PIR outdoor sensor light switch
